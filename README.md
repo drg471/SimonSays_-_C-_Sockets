@@ -15,7 +15,7 @@ Esta aplicación es un juego de Simon Says desarrollado en C# utilizando Visual 
 
 ### Instrucciones del Juego
 
-En este clásico juego de memoria, el servidor actúa como el "maestro" que genera secuencias de colores y sonidos. Los clientes, o "jugadores", deben replicar estas secuencias siguiendo las instrucciones del servidor. Cada vez que los jugadores replican correctamente una secuencia, se agrega un nuevo color a la secuencia y aumenta la dificultad del juego. Si los jugadores cometen un error, el juego termina.
+En este clásico juego de memoria, el servidor actúa como el "maestro" que genera secuencias de colores aleatorias. Los clientes, o "jugadores", deben replicar estas secuencias siguiendo las instrucciones del servidor. Cada vez que los jugadores replican correctamente una secuencia, se genera una nueva secuencia y aumenta la dificultad del juego. Si los jugadores cometen un error, el juego termina.
 
 El uso de sockets permite que múltiples jugadores se conecten al mismo servidor y jueguen simultáneamente, creando una experiencia interactiva y colaborativa. Además, el juego está diseñado con una interfaz gráfica intuitiva y atractiva para mejorar la experiencia del usuario.
 
