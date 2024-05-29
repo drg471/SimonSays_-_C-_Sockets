@@ -1,0 +1,116 @@
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.exe
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.deps.json
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.runtimeconfig.json
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.dll
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.pdb
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.Form1.resources
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.csproj.GenerateResource.cache
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.AssemblyInfoInputs.cache
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.AssemblyInfo.cs
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.csproj.CoreCompileInputs.cache
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.dll
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\refint\Tarea3_SS_Servidor.dll
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.pdb
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.genruntimeconfig.cache
+C:\Users\drodr\source\repos\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\ref\Tarea3_SS_Servidor.dll
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.exe
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.deps.json
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.runtimeconfig.json
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.dll
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.pdb
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.Form1.resources
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.csproj.GenerateResource.cache
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.AssemblyInfoInputs.cache
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.AssemblyInfo.cs
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.dll
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\refint\Tarea3_SS_Servidor.dll
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.pdb
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.genruntimeconfig.cache
+C:\Users\Gem\Desktop\Nueva carpeta\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\ref\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.exe
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.deps.json
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.runtimeconfig.json
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.pdb
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.Form1.resources
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.csproj.GenerateResource.cache
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.AssemblyInfoInputs.cache
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.AssemblyInfo.cs
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.csproj.CoreCompileInputs.cache
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\refint\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.pdb
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.genruntimeconfig.cache
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\ref\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.exe
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.deps.json
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.runtimeconfig.json
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.pdb
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.Form1.resources
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.Properties.Resources.resources
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.csproj.GenerateResource.cache
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.AssemblyInfoInputs.cache
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.AssemblyInfo.cs
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.csproj.CoreCompileInputs.cache
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\refint\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.pdb
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.genruntimeconfig.cache
+C:\Users\drodr\Desktop\backup1_Cleinteservidor_OK\Tarea3_versionPRO_OK_Comentado\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\ref\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.Form1.resources
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.Properties.Resources.resources
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.csproj.GenerateResource.cache
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.AssemblyInfoInputs.cache
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.AssemblyInfo.cs
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.csproj.CoreCompileInputs.cache
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\refint\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.pdb
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.exe
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.deps.json
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.runtimeconfig.json
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.pdb
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.genruntimeconfig.cache
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\ref\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.exe
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.deps.json
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.runtimeconfig.json
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.pdb
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.Form1.resources
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.Properties.Resources.resources
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.csproj.GenerateResource.cache
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.AssemblyInfoInputs.cache
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.AssemblyInfo.cs
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.csproj.CoreCompileInputs.cache
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\refint\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.pdb
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.genruntimeconfig.cache
+C:\Users\drodr\Desktop\Tareas entregar procesos\Tarea3_DavidRodriguezGarcia\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\ref\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.exe
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.deps.json
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.runtimeconfig.json
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\bin\Debug\net6.0-windows\Tarea3_SS_Servidor.pdb
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.Form1.resources
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.Properties.Resources.resources
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.csproj.GenerateResource.cache
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.AssemblyInfoInputs.cache
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.AssemblyInfo.cs
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.csproj.CoreCompileInputs.cache
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\refint\Tarea3_SS_Servidor.dll
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.pdb
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\Tarea3_SS_Servidor.genruntimeconfig.cache
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea3_SimonSays\Tarea3_SS_Servidor\obj\Debug\net6.0-windows\ref\Tarea3_SS_Servidor.dll
