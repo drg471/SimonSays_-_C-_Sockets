@@ -3,7 +3,7 @@
 
 Esta aplicación es un juego de Simon Says desarrollado en C# utilizando Visual Studio 2022. Utiliza sockets tipo cliente-servidor para permitir la interacción entre los jugadores.
 
-###Imágenes
+### Imágenes
 
 <img src="https://github.com/drg471/SimonSays_-_C-_Sockets/assets/113433396/2acd7391-8037-42cf-8874-91337d0ba2d6" width="600">
 
